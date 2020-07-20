@@ -1,16 +1,14 @@
-### Hi, I'm Davy 👋
+### Hi there 👋 
+### I am Davy.
+#### M-E, Programming, Space, Technology.
+![M-E, Programming, Space, Technology.](https://images.unsplash.com/photo-1595108830792-9a157f47b01f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
 
-<!--
-**davychhouk/davychhouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: JS / ANGULAR / VUE JS / REACT / REACT NATIVE / NODEJS
 
-Here are some ideas to get you started:
+🔭 I’m currently working on daseveny.com. 🌱 I’m currently learning GO. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davychhouk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/davychhouk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chhoukdavy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](daseveny.com)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=davychhouk&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/davychhouk)  
