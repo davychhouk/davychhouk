@@ -1,10 +1,9 @@
 ### Hi there 👋 
 ### I am Davy.
 #### M-E, Programming, Space, Technology.
-![M-E, Programming, Space, Technology.](https://images.unsplash.com/photo-1595108830792-9a157f47b01f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
-<span>Photo by <a href="https://unsplash.com/@evtu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Evgeniy Tuhachewscky</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+#### Author @Daseveny (http://daseveny.com)
 
-Skills: JS / ANGULAR / VUE JS / REACT / REACT NATIVE / NODEJS
+Skills: JS / ANGULAR / VUE JS / REACT / REACT NATIVE / NODEJS / LARAVEL
 
 🔭 I’m currently working on daseveny.com. 🌱 I’m currently learning GO. 
 
