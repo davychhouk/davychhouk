@@ -1,11 +1,14 @@
 ### Hi there 👋 
-### I am Davy.
+### I am davychhouk.
 #### M-E, Programming, Space, Technology.
-#### Blog [@Daseveny](https://daseveny.com)
+#### Blog: [Daseveny](https://www.daseveny.com)
 
-Skills: JS / ANGULAR / VUE / REACT / REACT NATIVE / NODEJS / LARAVEL
+Skills: JS / ANGULAR / REACT / REACT NATIVE / NODEJS / LARAVEL / VUE
 
 🔭 I’m currently working on daseveny.com.  
 🌱 I’m currently learning GO. 
 
-[<img src='https://daseveny.com/static/36bb424c87c6f3996bed43cd13dbcc79/92ab1/daseveny-icon.png' alt='website' height='40'>](https://daseveny.com)  [<img src='https://miro.medium.com/max/3150/1*sHhtYhaCe2Uc3IU0IgKwIQ.png' alt='medium' height='35'>](https://medium.com/@davy.chhouk)  [<img src='https://img.apkspree.com/files/to.dev.dev_android/images/icon.png' alt='dev' height='40'>](https://dev.to/davychhouk) [<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png' alt='twitter' height='30'>](https://twitter.com/chhoukdavy)  
+[<img src='https://user-images.githubusercontent.com/13924709/108584146-96986300-7371-11eb-99d1-9d1a475065f9.png' alt='website' height='40'>](https://www.daseveny.com)
+[<img src='https://user-images.githubusercontent.com/13924709/108584149-98fabd00-7371-11eb-800d-7a955719077e.png' alt='medium' height='40'>](https://medium.com/@davy.chhouk)
+[<img src='https://user-images.githubusercontent.com/13924709/108584148-98622680-7371-11eb-8d34-ce4cf25adcc7.png' alt='dev.to' height='40'>](https://dev.to/davychhouk)
+[<img src='https://user-images.githubusercontent.com/13924709/108584150-9a2bea00-7371-11eb-971f-2f465804b699.png' alt='twitter' height='30'>](https://twitter.com/chhoukdavy)  
