@@ -1,9 +1,7 @@
 ### Hi there 👋 
 ### I am davychhouk.
 #### M-E, Programming, Space, Technology.
-#### Blog: [Daseveny](https://www.daseveny.com)
-
-Skills: JS / ANGULAR / REACT / REACT NATIVE / NODEJS / LARAVEL / VUE
+#### @ [Daseveny](https://www.daseveny.com)
 
 🔭 I’m currently working on daseveny.com.  
 🌱 I’m currently learning GO. 
