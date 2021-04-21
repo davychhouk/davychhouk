@@ -1,7 +1,6 @@
-### Hi there 👋 
-### I am davychhouk.
+### `davychhouk`
 #### M-E, Programming, Space, Technology.
-#### @ [Daseveny](https://www.daseveny.com)
+#### [Daseveny](https://www.daseveny.com)
 
 🔭 I’m currently working on daseveny.com.  
 🌱 I’m currently learning GO. 
