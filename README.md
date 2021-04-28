@@ -1,5 +1,8 @@
 ### `davychhouk`
-#### M-E, Programming, Space, Technology.
+>Software Engineer   
+>CAMT 58s  
+>M-E, Programming, Space, Technology.  
+
 #### [Daseveny](https://www.daseveny.com)
 
 🔭 I’m currently working on daseveny.com.  
