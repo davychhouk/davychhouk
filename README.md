@@ -6,7 +6,7 @@
 #### [Daseveny](https://www.daseveny.com)
 
 🔭 I’m currently working on www.daseveny.com.  
-🌱 I’m currently learning GO. 
+🌱 I’m currently learning Golang. 
   
 Find me at:  
   
