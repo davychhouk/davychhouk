@@ -1,6 +1,6 @@
 ### `davychhouk`
 >Software Engineer   
->CAMT 58s  
+>CAMT 58s, CMU  
 >M-E, Programming, Space, Technology.  
 
 🔭 I’m currently working on www.daseveny.com.  
