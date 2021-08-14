@@ -3,8 +3,7 @@
 >CAMT 58s, CMU  
 >M-E, Programming, Space, Technology.  
 
-🔭 I’m currently working on www.daseveny.com.  
-🌱 I’m currently learning Golang. 
+🔭 I’m currently working on www.daseveny.com
   
 Find me at:  
   
