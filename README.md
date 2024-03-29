@@ -3,11 +3,6 @@
 >CAMT 58s, CMU  
 >M-E, Programming, Space, Technology.    
 
-🔭 I’m currently working on:  
-
-- https://daseveny.com
-- https://project-me.app
-  
 Find me at:  
 
 [<img src='https://user-images.githubusercontent.com/13924709/185965828-2c83b2f2-1b58-459a-b6fa-959c9c8dfd8b.png' alt='davychhouk.cc' height='40'>](https://davychhouk.cc)
